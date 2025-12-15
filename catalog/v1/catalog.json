@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2025-12-15T12:00:00Z",
+  "items": [
+    {
+      "textbookId": "oxford-phonics-world-1",
+      "title": "Oxford Phonics World 1",
+      "subtitle": "The Alphabet",
+      "language": "en",
+      "level": "A1",
+      "coverImageUrl": "https://chenyungui.github.io/soloenglish-catalog/assets/covers/opw1.jpg",
+      "summary": "Welcome to Oxford Phonics World! Let us guide you through the world of phonics.",
+      "publisher": "Oxford University Press",
+      "tags": ["phonics", "kids", "beginner"],
+      "price": {
+        "amount": 0,
+        "currency": "CNY",
+        "productId": "soloenglish.opw1",
+        "display": "Free"
+      },
+      "package": {
+        "schemaVersion": 1,
+        "packageType": "soloenglish.textbook",
+        "packageVersion": 1,
+        "minAppBuild": 1,
+        "url": "https://chenyungui.github.io/soloenglish-catalog/packages/oxford-phonics-world-1/v1/textbook.json",
+        "fileSizeBytes": 4096,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "contentType": "application/json"
+      }
+    }
+  ]
+}
